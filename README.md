@@ -1,4 +1,4 @@
-# WeatherVista ☁️
+# WeatherVista ☁️🌡️
 
 **WeatherVista** is a simple and responsive web application that displays real-time weather information such as sky conditions, temperature, and wind speed for a given location.
 
